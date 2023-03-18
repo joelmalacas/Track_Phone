@@ -11,7 +11,7 @@ Then, to run the program, run the file "track_phone.py" and enter the number.
 
 Then it will locate the number and save it in the .txt file and will generate in the html file:: "mylocation.html" the GPS with the coordinates of the entered number
 
-I'm a new Portuguese programmer, and I hope you enjoy this program. 
+I'm a Joel Malacas, and I hope you enjoy this program. 
 
 Write any useful reviews, to evolve.
 
